@@ -1,16 +1,20 @@
+![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 <h1 align="center">
-  Hi there, I'm <span style="color:#ff4081;">Galiextro</span> 👋<br>
+  Hey there, I'm <span style="color:#ff4081;">Galiextro</span> 👋<br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%2B+Virtual+Assistants+Enthusiast;Lifelong+Learner+%2B+Dream+Builder" alt="Typing SVG" />
 </h1>
 
----
+<h2 align="center">🧠 About Me</h2>
 
-### About Me
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="40px"/>
+</div>
 
-- 🎓 I'm a Computer Engineering student at **Rey Juan Carlos University** (Spain)
-- 🌍 Passionate about building smart tools that **empower users** and enhance digital experiences
+- 🎓 Computer Engineering student at **Rey Juan Carlos University** (Spain)  
+- 🤖 Enthusiast of **AI**, **Virtual Assistants**, and smart human-computer interactions  
+- 🌱 Lifelong learner with a passion for building things that make life easier  
+- 🚀 Always dreaming big — and building accordingly
 
----
 
 ### 🛠️ Languages
 
