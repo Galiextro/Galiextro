@@ -1,10 +1,12 @@
 ![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 
+---
 <div align="center">
-
-  [![🌐 Cambiar a Español](https://img.shields.io/badge/Cambiar_a-Español-e63946?style=for-the-badge&labelColor=000)](README.es.md)
-
+  [![🇪🇸 Español](https://img.shields.io/badge/Cambiar_a-Español-e91e63?style=for-the-badge&labelColor=000)](README.es.md)
+  &nbsp;&nbsp;
+  ![🇺🇸 English](https://img.shields.io/badge/English-1e90ff?style=for-the-badge&labelColor=000)
 </div>
+---
 
 <h1 align="center">
   Hey there, I'm <span style="color:#ff4081;">Galiextro</span> 👋<br>
@@ -13,6 +15,8 @@
 
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="margin-bottom: 2px;" /> About Me
+
+
 
 - 🎓 Computer Engineering student  
 - 🤖 Enthusiast of **AI**, **lover of modern tech**, and more 
