@@ -5,15 +5,16 @@
 </h1>
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="30px" style="margin-bottom: 2px;" /> About Me
+# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="margin-bottom: 2px;" /> About Me
 
-
-- 🎓 Computer Engineering student at **Rey Juan Carlos University** (Spain)  
-- 🤖 Enthusiast of **AI**, **Virtual Assistants**, and smart human-computer interactions  
+- 🎓 Computer Engineering student  
+- 🤖 Enthusiast of **AI**, **lover of modern tech**, and more 
 - 🌱 Lifelong learner with a passion for building things that make life easier  
 - 🚀 Always dreaming big — and building accordingly
 
-### 🛠️ Languages
+---
+
+# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Programming_Languages.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> Languages
 
 <div align="center">
 
@@ -26,7 +27,9 @@
 
 </div>
 
-### 🧩 Frameworks & Tools
+---
+
+#  <img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="25" height="25" alt="Settings Icon" /> Frameworks & Tools
 
 <div align="center">
 
@@ -41,47 +44,64 @@
 
 </div>
 
-
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galiextro&show_icons=true&theme=github_dark" alt="Galiextro's GitHub stats"/>
-</p>
-
----
-
-### 🔭 What I'm working on
-
-- 🚧 TFG: Cross-platform smart assistant with **modular features ("chips")**, **voice interface**, **task automation** and **rewards for efficiency**
-- 📱 Building UI/UX with **Flutter**
-- 🔐 Researching **privacy-focused data architecture**
-- ⚙️ Dev environment with **GitHub Actions**, **Docker**, **CI/CD**
-
----
-
-### 🌐 Let's Connect
-
-- 📬 Email: `galiextro@example.com`
-- 🧠 LinkedIn: [linkedin.com/in/galiextro](https://linkedin.com/in/galiextro)
-- 💻 GitHub: [@galiextro](https://github.com/galiextro)
+# <img src="https://img.icons8.com/color/48/light-on--v1.png" width="25" height="25" alt="Idea Icon" /> I'm learning about...
 
 <div align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  </a>
+
+  [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+  [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+  [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+  [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+  [![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
+  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+
+
+</div>
+
+
+---
+
+# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galiextro&show_icons=true&theme=github_dark)
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+# <img src="https://img.icons8.com/color/48/search--v1.png" width="25" height="25" alt="Search Icon" /> What I'm working on
+
+- 🗺️ Creating a **roadmap of projects** to keep my learning and development on point  
+- 📚 Deepening knowledge on the technologies I'm currently learning about  
+- 💻 Actively working on a couple of side projects to apply what I learn  
+- ⚙️ Automating workflows with **GitHub Actions**, **Docker**, and **CI/CD pipelines**
+
+---
+
+# <img src="https://img.icons8.com/color/48/000000/contacts.png" width="28" height="28" alt="Connect Icon" /> Let's Connect
+
+<div align="center">
+
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alexuntaru10@gmail.com)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandru-untaru-083609277/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/galiextro)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </p>
+
+![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)
