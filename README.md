@@ -88,9 +88,8 @@
 
 <div align="center">
 
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alexuntaru10@gmail.com)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=alexuntaru10@gmail.com)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandru-untaru-083609277/)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/galiextro)
 
 </div>
 
