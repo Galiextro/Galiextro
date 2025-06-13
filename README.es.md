@@ -1,10 +1,10 @@
 ![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 
-<p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🌐_Switch_to-English-1e90ff?style=for-the-badge&labelColor=000&logoColor=white" alt="Switch to English">
-  </a>
-</p>
+<div align="center">
+
+   [![🌐 Switch to English](https://img.shields.io/badge/Switch_to-English-1e90ff?style=for-the-badge&labelColor=000)](README.md)
+
+</div>
 
 
 <h1 align="center">
