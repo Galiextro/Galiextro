@@ -1,4 +1,4 @@
-![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header
+![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 
 <div align="center">
 
