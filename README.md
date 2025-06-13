@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![🌐 Cambiar al Español](https://img.shields.io/badge/Idioma-Español-e63946?style=for-the-badge&logoColor=white)](README.es.md)
+  [![🌐 Cambiar a Español](https://img.shields.io/badge/Cambiar_a-Español-e63946?style=for-the-badge&labelColor=000)](README.es.md)
 
 </div>
 
