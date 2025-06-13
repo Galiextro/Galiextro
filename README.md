@@ -1,14 +1,14 @@
 ![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 
----
+
 <div align="center">
   
   [![🇪🇸 Español](https://img.shields.io/badge/Cambiar_a-Español-e91e63?style=for-the-badge&labelColor=000)](README.es.md)
   &nbsp;&nbsp;
-  ![🇺🇸 English](https://img.shields.io/badge/English-1e90ff?style=for-the-badge&labelColor=000)
+  [![🇺🇸 English](https://img.shields.io/badge/English-1e90ff?style=for-the-badge&labelColor=000)](README.md)
   
 </div>
----
+
 
 <h1 align="center">
   Hey there, I'm <span style="color:#ff4081;">Galiextro</span> 👋<br>
