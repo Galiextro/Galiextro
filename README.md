@@ -4,17 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%2B+Virtual+Assistants+Enthusiast;Lifelong+Learner+%2B+Dream+Builder" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">🧠 About Me</h2>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="40px"/>
+<div align="center" style="line-height: 1.1;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="80px" style="margin-bottom: 2px;" />
+  <h1 align="center" style="margin: 4px 0;">About Me</h1>
 </div>
 
 - 🎓 Computer Engineering student at **Rey Juan Carlos University** (Spain)  
 - 🤖 Enthusiast of **AI**, **Virtual Assistants**, and smart human-computer interactions  
 - 🌱 Lifelong learner with a passion for building things that make life easier  
 - 🚀 Always dreaming big — and building accordingly
-
 
 ### 🛠️ Languages
 
