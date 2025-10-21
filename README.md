@@ -99,7 +99,7 @@
 
 <div align="center">
 
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=alexuntaru10@gmail.com)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=anuix.dev@gmail.com)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandru-untaru-083609277/)
 
 </div>
