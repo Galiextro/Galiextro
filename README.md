@@ -88,10 +88,8 @@
 
 # <img src="https://img.icons8.com/color/48/search--v1.png" width="25" height="25" alt="Search Icon" /> What I'm working on
 
-- 🗺️ Creating a **roadmap of projects** to keep my learning and development on point  
-- 📚 Deepening knowledge on the technologies I'm currently learning about  
-- 💻 Actively working on a couple of side projects to apply what I learn  
-- ⚙️ Automating workflows with **GitHub Actions**, **Docker**, and **CI/CD pipelines**
+- **Main Project**: My Bachelor's Thesis, RV-MAP (Autonomous drone navigation using AI).
+- 💻 **Side Projects**: Actively working on several ideas to apply what I'm learning.
 
 ---
 
