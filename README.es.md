@@ -82,10 +82,8 @@
 
 # <img src="https://img.icons8.com/color/48/search--v1.png" width="25" height="25" /> En qué estoy trabajando
 
-- 🗺️ Realizando una **hoja de ruta de proyectos** para enfocar mi desarrollo  
-- 📚 Profundizando en las tecnologías que estoy aprendiendo  
-- 💻 Trabajando activamente en un par de proyectos personales  
-- ⚙️ Automatizando flujos con **GitHub Actions**, **Docker** y pipelines de **CI/CD**
+- **Proyecto Principal**: Mi Trabajo de Fin de Grado, RV-MAP (Navegación autónoma de drones usando IA).
+- 💻 **Proyectos Secundarios**: Trabajando activamente en varias ideas para aplicar lo que aprendo.
 
 ---
 
