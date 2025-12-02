@@ -44,14 +44,7 @@
 
 <div align="center">
 
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-  [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
-  [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
-  [![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
-  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-  [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
-  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -61,15 +54,7 @@
 
 <div align="center">
 
-  [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-  [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-  [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-  [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
-  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-  [![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
-  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-
+  [![List](https://skillicons.dev/icons?i=astro,react,scala,arduino,bitbucket,docker,mysql,nodejs,pnpm,prisma,pytorch,tailwind,ts,vite,tensorflow&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -79,8 +64,9 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> GitHub Stats
 
 <div align="center">
+Apologies, we are dealing a little problem. It will be fixed in the future.
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galiextro&show_icons=true&theme=github_dark)
+  [![Galiextro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galiextro)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
