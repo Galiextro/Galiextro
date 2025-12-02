@@ -40,31 +40,17 @@
 
 <div align="center">
 
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-  [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
-  [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
-  [![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
-  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-  [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
-  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman&perline=6)](https://skillicons.dev)
 
 </div>
 
 ---
 
-# <img src="https://img.icons8.com/color/48/light-on--v1.png" width="25" height="25" /> Estoy aprendiendo sobre...
+# <img src="https://img.icons8.com/color/48/light-on--v1.png" width="25" height="25" alt="Idea Icon" /> Estoy aprendiendo sobre...
 
 <div align="center">
 
-  [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-  [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-  [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-  [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
-  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-  [![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
-  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+  [![List](https://skillicons.dev/icons?i=astro,react,scala,arduino,bitbucket,docker,mysql,nodejs,pnpm,prisma,pytorch,tailwind,ts,vite,tensorflow&perline=5)](https://skillicons.dev)
 
 </div>
 
