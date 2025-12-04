@@ -74,7 +74,7 @@ Apologies, we are dealing a little problem. It will be fixed in the future.
 
 # <img src="https://img.icons8.com/color/48/search--v1.png" width="25" height="25" alt="Search Icon" /> What I'm working on
 
-- **Main Project**: My Bachelor's Thesis, RV-MAP (Autonomous drone navigation using AI).
+- **Main Project**: My College's Thesis, RV-MAP (Autonomous drone navigation using AI).
 - 💻 **Side Projects**: Actively working on several ideas to apply what I'm learning.
 
 ---
