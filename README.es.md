@@ -59,7 +59,7 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif" width="30px" /> Estadísticas de GitHub
 
 <div align="center">
-
+Disculpas, estamos teniendo problemas para cargar las estadísticas. Será arreglado en el futuro.
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galiextro&show_icons=true&theme=github_dark)
 
 </div>
