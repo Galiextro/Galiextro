@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-  ¡Hola! Soy <span style="color:#ff4081;">Galiextro</span> 👋<br>
+  ¡Hola! Soy <span style="color:#ff4081;">Anuix</span> 👋<br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+Informática;Apasionado+de+la+IA+y+asistentes+virtuales;Aprendiz+constante+y+constructor+de+sueños" alt="Typing SVG" />
 </h1>
 
