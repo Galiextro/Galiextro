@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#ff4081;">Galiextro</span> 👋<br>
+  Hey there, I'm <span style="color:#ff4081;">Anuix</span> 👋<br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%2B+Virtual+Assistants+Enthusiast;Lifelong+Learner+%2B+Dream+Builder" alt="Typing SVG" />
 </h1>
 
