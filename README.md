@@ -44,7 +44,7 @@
 
 <div align="center">
 
-   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman&perline=6)](https://skillicons.dev)
+   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman,md&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-  [![List](https://skillicons.dev/icons?i=astro,react,scala,arduino,bitbucket,docker,mysql,nodejs,pnpm,prisma,pytorch,tailwind,ts,vite,tensorflow&perline=5)](https://skillicons.dev)
+  [![List](https://skillicons.dev/icons?i=astro,scala,arduino,mysql,nodejs,pytorch,ts,tensorflow,bash,cpp&perline=5)](https://skillicons.dev)
 
 </div>
 
