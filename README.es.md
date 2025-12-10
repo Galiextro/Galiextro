@@ -50,7 +50,7 @@
 
 <div align="center">
 
-  [![List](https://skillicons.dev/icons?i=astro,scala,arduino,mysql,nodejs,pytorch,ts,tensorflow,bash,cpp&perline=5)](https://skillicons.dev)
+  [![List](https://skillicons.dev/icons?i=astro,scala,arduino,mysql,kali,pytorch,ts,tensorflow,bash,cpp&perline=5)](https://skillicons.dev)
 
 </div>
 
