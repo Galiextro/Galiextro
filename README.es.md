@@ -25,12 +25,7 @@
 
 <div align="center">
 
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![C](https://skillicons.dev/icons?i=c)](https://es.wikipedia.org/wiki/C_(lenguaje_de_programación))
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![List](https://skillicons.dev/icons?i=c,java,python,html,css,js&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -40,7 +35,7 @@
 
 <div align="center">
 
-   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman,md&perline=6)](https://skillicons.dev)
+   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman,md,arduino,bash&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -50,7 +45,7 @@
 
 <div align="center">
 
-  [![List](https://skillicons.dev/icons?i=astro,scala,arduino,mysql,kali,pytorch,ts,tensorflow,bash,cpp&perline=5)](https://skillicons.dev)
+  [![List](https://skillicons.dev/icons?i=astro,scala,mysql,kali,pytorch,ts,tensorflow,cpp&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -59,10 +54,12 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif" width="30px" /> Estadísticas de GitHub
 
 <div align="center">
-Disculpas, estamos teniendo problemas para cargar las estadísticas. Será arreglado en el futuro.
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galiextro&show_icons=true&theme=github_dark)
-
+  <a href="https://github.com/anuixdev/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=anuixdev&show_icons=true&theme=calm&hide_border=true&hide=stars,prs&custom_title=Estadísticas%20de%20Anuix" alt="anuixdev github stats" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuixdev&layout=compact&theme=calm&hide_border=true&custom_title=Top%20Lenguajes" />
+  </a>
 </div>
+
 
 ---
 
