@@ -29,12 +29,7 @@
 
 <div align="center">
 
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![List](https://skillicons.dev/icons?i=c,java,python,html,css,js&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -64,10 +59,10 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> GitHub Stats
 
 <div align="center">
-Apologies, we are dealing a little problem. It will be fixed in the future.
-  
-  [![Galiextro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galiextro)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/anuixdev/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=anuixdev&show_icons=true&theme=calm&hide_border=true&hide=stars,prs&custom_title=Anuix's%20stats" alt="anuixdev github stats" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuixdev&layout=compact&theme=calm&hide_border=true" />
+  </a>
 </div>
 
 ---
