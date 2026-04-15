@@ -1,5 +1,4 @@
-![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=header)
 
 <div align="center">
   
@@ -7,90 +6,71 @@
   
 </div>
 
-
 <h1 align="center">
-  Hey there, I'm <span style="color:#ff4081;">Anuix</span> 👋<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%2B+Virtual+Assistants+Enthusiast;Lifelong+Learner+%2B+Dream+Builder" alt="Typing SVG" />
+  Hey, I'm <span style="color:#1DF0CD;">Alexandru (Anuix)</span> 👋<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Telef%C3%B3nica+Tech;AI+%26+MLOps+Practitioner;Autonomous+Systems+Developer" alt="Typing SVG" />
 </h1>
 
+# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">About Me</span>   
 
-# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="margin-bottom: 2px;" /> About Me
-
-
-
-- 🎓 Computer Engineering student  
-- 🤖 Enthusiast of **AI**, **lover of modern tech**, and more 
-- 🌱 Lifelong learner with a passion for building things that make life easier  
-- 🚀 Always dreaming big — and building accordingly
+- **B.S. Computer Engineering** (Last year).
+- **Infrastructure & Ops:** Currently optimizing Cloud & Cyber services at **Telefónica Tech** (Talentum Program).
+- **AI Specialist:** Focused on the intersection of Software Architecture and Machine Learning.
+- **Leadership:** Secretary at **FablabM**, managing innovation and tech-entrepreneurship projects.
 
 ---
 
-# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Programming_Languages.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> Languages
+# <span style="vertical-align: middle;">🛠️ Tech Stack & Expertise</span>
 
-<div align="center">
+### Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,bash,mysql,html,css,scala" />
+</div>
 
-[![List](https://skillicons.dev/icons?i=c,java,python,html,css,js&perline=6)](https://skillicons.dev)
+### Infrastructure & DevOps (Core Focus)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git,linux,vscode,postman,idea,pycharm,clion" />
+</div>
 
+### Learning Path
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,ts" />
 </div>
 
 ---
 
-#  <img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="25" height="25" alt="Settings Icon" /> Frameworks & Tools
+# <img src="https://img.icons8.com/color/48/light-on--v1.png" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle;">What I'm Engineering Now</span>
+
+- **RV-MAP (Thesis)**: Developing an autonomous drone navigation system powered by AI. 
+
+---
+# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true"  width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle;">GitHub Insights</span>
 
 <div align="center">
-
-   [![List](https://skillicons.dev/icons?i=github,git,vscode,spring,notion,clion,idea,pycharm,postman,md,arduino,bash&perline=6)](https://skillicons.dev)
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuixdev&show_icons=true&theme=calm&hide_border=true&hide=stars,prs&custom_title=Engineering+Stats" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuixdev&layout=compact&theme=calm&hide_border=true" />
 </div>
 
 ---
 
-# <img src="https://img.icons8.com/color/48/light-on--v1.png" width="25" height="25" alt="Idea Icon" /> I'm learning about...
+# 🤝 Let's Connect
 
 <div align="center">
-
-  [![List](https://skillicons.dev/icons?i=astro,scala,mysql,kali,pytorch,ts,tensorflow,cpp&perline=5)](https://skillicons.dev)
-
-</div>
-
-
----
-
-# <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;"> GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuixdev/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=anuixdev&show_icons=true&theme=calm&hide_border=true&hide=stars,prs&custom_title=Anuix's%20stats" alt="anuixdev github stats" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuixdev&layout=compact&theme=calm&hide_border=true" />
+  <a href="https://www.linkedin.com/in/alexandru-untaru-083609277/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:anuix.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </div>
 
 ---
 
-# <img src="https://img.icons8.com/color/48/search--v1.png" width="25" height="25" alt="Search Icon" /> What I'm working on
-
-- **Main Project**: My College's Thesis, RV-MAP (Autonomous drone navigation using AI).
-- 💻 **Side Projects**: Actively working on several ideas to apply what I'm learning.
-
----
-
-# <img src="https://img.icons8.com/color/48/000000/contacts.png" width="28" height="28" alt="Connect Icon" /> Let's Connect
-
-<div align="center">
-
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=anuix.dev@gmail.com)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandru-untaru-083609277/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
-
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+  <div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  </div>
+  <em>"Efficiency is doing things right; effectiveness is doing the right things."</em>
 </p>
 
-![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)
