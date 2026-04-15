@@ -63,11 +63,10 @@
 
 ---
 
-<p align="center">
-  <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  </div>
-  <em align="center">"Efficiency is doing things right; effectiveness is doing the right things."</em>
-</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+<p align="center">"Efficiency is doing things right; effectiveness is doing the right things."</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)
