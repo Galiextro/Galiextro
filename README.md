@@ -56,12 +56,9 @@
 # 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexandru-untaru-083609277/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="mailto:anuix.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
+
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=anuix.dev@gmail.com)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandru-untaru-083609277/)
 </div>
 
 ---
@@ -70,7 +67,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   </div>
-  <em>"Efficiency is doing things right; effectiveness is doing the right things."</em>
+  <em align="center">"Efficiency is doing things right; effectiveness is doing the right things."</em>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)

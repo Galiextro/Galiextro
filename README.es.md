@@ -71,7 +71,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   </div>
-  <em>"La eficiencia es hacer las cosas bien; la efectividad es hacer las cosas correctas."</em>
+  <em align="center">"La eficiencia es hacer las cosas bien; la efectividad es hacer las cosas correctas."</em>
 </p>
 
 ![rainbow-divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer)
