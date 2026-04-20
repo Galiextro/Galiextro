@@ -15,7 +15,7 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">Sobre Mí</span>   
 
 - **Grado en Ingeniería Informática** (Último año).
-- **Infraestructura y Operaciones:** Optimizando servicios Cloud y Ciberseguridad en **Telefónica Tech** (Programa Talentum).
+- **Infraestructura y Operaciones:** Gestionando la implementación técnica de la infraestructura en la nube (vivienda), garantizando alta disponibilidad y escalabilidad del rack para clientes empresariales en **Telefónica Tech** (Programa Talentum).
 - **IA y Sistemas:** Enfocado en la intersección entre arquitectura de software y Machine Learning.
 - **Liderazgo:** Secretario en **FablabM**, gestionando proyectos de innovación y emprendimiento tecnológico.
 
