@@ -14,7 +14,7 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">About Me</span>   
 
 - **B.S. Computer Engineering** (Last year).
-- **Infrastructure & Ops:** Currently optimizing Cloud & Cyber services at **Telefónica Tech** (Talentum Program).
+- **Infrastructure & Ops:** Managing technical deployment for cloud infrastructure (Housing), ensuring high-availability and rack scalability for enterprise clients at **Telefónica Tech** (Talentum Program).
 - **AI Specialist:** Focused on the intersection of Software Architecture and Machine Learning.
 - **Leadership:** Secretary at **FablabM**, managing innovation and tech-entrepreneurship projects.
 
