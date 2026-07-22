@@ -8,7 +8,7 @@
 
 <h1 align="center">
   Hey, I'm <span style="color:#1DF0CD;">Alexandru (Anuix)</span> 👋<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Telef%C3%B3nica+Tech;AI+%26+MLOps+Practitioner;Autonomous+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Telef%C3%B3nica+Tech;AI+Practitioner;Autonomous+Systems+Developer" alt="Typing SVG" />
 </h1>
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">About Me</span>   
