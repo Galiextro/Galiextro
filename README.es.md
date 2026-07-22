@@ -9,14 +9,14 @@
 
 <h1 align="center">
   Hola, soy <span style="color:#ff4081;">Alexandru (Anuix)</span> 👋<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+%40+Telef%C3%B3nica+Tech;Especialista+en+IA+y+MLOps;Desarrollador+de+Sistemas+Aut%C3%B3nomos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+%40+Telef%C3%B3nica+Tech;Aprendizaje+en+IA;Desarrollador+de+Sistemas+Aut%C3%B3nomos" alt="Typing SVG" />
 </h1>
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">Sobre Mí</span>   
 
-- **Grado en Ingeniería Informática** (Último año).
+- **Grado en Ingeniería Informática** - Ingeniero Informático (2026)
 - **Infraestructura y Operaciones:** Gestionando la implementación técnica de la infraestructura en la nube (vivienda), garantizando alta disponibilidad y escalabilidad del rack para clientes empresariales en **Telefónica Tech** (Programa Talentum).
-- **IA y Sistemas:** Enfocado en la intersección entre arquitectura de software y Machine Learning.
+- **IA y Sistemas:** Enfocado en la intersección entre arquitectura de software e IA.
 - **Liderazgo:** Secretario en **FablabM**, gestionando proyectos de innovación y emprendimiento tecnológico.
 
 
@@ -43,7 +43,7 @@
 
 # <img src="https://img.icons8.com/color/48/light-on--v1.png" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle;">Proyectos en desarrollo</span>
 
-- **RV-MAP (TFG)**: Desarrollo de un sistema de navegación autónoma para drones basado en Inteligencia Artificial.
+- **Projecto ARGOS**: Sistema de gestión del conocimiento local-first impulsado por IA privada e integración RAG.
 
 ---
 
