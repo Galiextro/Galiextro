@@ -13,9 +13,9 @@
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle; font-size: 1.2em;">About Me</span>   
 
-- **B.S. Computer Engineering** (Last year).
+- **B.S. Computer Engineering** (2026)
 - **Infrastructure & Ops:** Managing technical deployment for cloud infrastructure (Housing), ensuring high-availability and rack scalability for enterprise clients at **Telefónica Tech** (Talentum Program).
-- **AI Specialist:** Focused on the intersection of Software Architecture and Machine Learning.
+- **AI Specialist:** Focused on the intersection of Software Architecture and AI
 - **Leadership:** Secretary at **FablabM**, managing innovation and tech-entrepreneurship projects.
 
 ---
@@ -41,7 +41,7 @@
 
 # <img src="https://img.icons8.com/color/48/light-on--v1.png" width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle;">What I'm Engineering Now</span>
 
-- **RV-MAP (Thesis)**: Developing an autonomous drone navigation system powered by AI. 
+- **Project ARGOS**: Local-first knowledge management system powered by private AI and RAG integration.
 
 ---
 # <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true"  width="35px" style="vertical-align: middle;"/>  <span style="vertical-align: middle;">GitHub Insights</span>
